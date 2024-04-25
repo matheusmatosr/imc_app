@@ -4,11 +4,15 @@
 122100025 - Hiago Ferreira dos Santos
 122100007 - Matheus Matos Rodrigues
 
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/magreza.png)
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/pesoIdeal.png)
+<img src="imagens/magreza.png" width="350" height="400">
+<img src="imagens/pesoIdeal.png" width="350" height="400">
 
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/sobrepeso.png)
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/obesidade1.png)
+</br>
 
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/obesidade2.png)
-![image](https://github.com/matheusmatosr/imc_app/tree/master/imagens/obesidade3.png)
+<img src="imagens/sobrepeso.png" width="350" height="400">
+<img src="imagens/obesidade1.png" width="350" height="400">
+
+</br>
+
+<img src="imagens/obesidade2.png" width="350" height="400">
+<img src="imagens/obesidade3.png" width="350" height="400">
